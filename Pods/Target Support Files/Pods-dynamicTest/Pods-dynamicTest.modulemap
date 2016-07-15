@@ -1,0 +1,6 @@
+framework module Pods_dynamicTest {
+  umbrella header "Pods-dynamicTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
